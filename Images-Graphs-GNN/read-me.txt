@@ -1,0 +1,6 @@
+1: To train a model yourself on the data, download dataset here: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+note: Download and extract into the "data_clean" folder
+
+2: Run the GNN_Training file, it will clean, process, and save the data, and then begin the training.
+
+3: To run the model run the model_predict file, you can test the model on image URLs.
